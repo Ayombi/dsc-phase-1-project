@@ -4,12 +4,14 @@ Box Office Movie project
 
 ![image](https://github.com/Ayombi/dsc-phase-1-project/assets/151352835/d936019d-c9ed-4119-8697-adc60fc6c25b)
 
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
-
 ## Project Overview
-
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+In this analysis, I will perform an analysis on a large data set of approximately 73,000
+movies from 3 datasets. The data includes many different types of information about each movie, ranging from
+the release date, the director, the studio, to other information like the budget, the box office
+earnings, the audience and critic scores from different sites. I will analyze this data set to
+determine what contributes to a movie being a “success”. For this analysis, I will define success
+in financial terms, basing the success of a movie on the amount of money it earns in
+comparison to the movie’s budget..
 
 ### Business Problem
 
