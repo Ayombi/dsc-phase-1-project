@@ -2,7 +2,7 @@
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQBCgMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBB//EAEQQAAEDAwIEAwUEBgYLAQAAAAEAAgMEBRESIQYTMUEiUWEUcYGRsQcyQqEVM8Hh8PFSU2KCotEjQ3Jzg5KjwsPS8iX/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EAB8RAQEBAQACAwEBAQAAAAAAAAABAhESIQMxQVFxE//aAAwDAQACEQMRAD8A8TQhCAQhCCRQUklfWw0sH35XBo7/AB+S9CsVxpbhBW8MW6mc2njicG1DTkyEfecdts9lVfZ5ZpqulvNwgbmaKlfBS7f6xzT9Bj5q0+z231FtulNDPTSxyzNc6UuZs0DoFz1ZXTMsUdzlhrWNpGQFsER2aXY3G26Ta7HTMLrvVEtoqV2rlO6yv/C0HyJXpNTw7CxkzBHSkzT63Ex7lh6jPn6rIcQSC418toowyGkpWlrcjwl4I/l80zrvpq5/TJvouVoqam4xNhfSVLfu75yCB8eqy90eyonZLH0czv1Wnudikt3CzY5Tmpqqhsj9PZrRt9M/FZr2aRzAWDUAcZC3jx56Z139Q2Q5dhPtp8DoFZUluc8jLSFYT2otjy1vZauokz1mJIQN8D5KO9uOytqyBzDghVsjPEVWb6RyN10BKLd0BqiDC5pToagtV4GCElPFqbcN1AhC6QjCg4u43XWhL0oEAJWEtrMpfLV4GdK7hO6Uh4QNlJXSuIOFC6uKAQhCAQhCAQhdjjMsrIm/ee4NHxOEG2p71X2KjstntLhFUygVVTJp3cZN2t+DcL0Sk4jbUWSSrgpn1FYzIMDB1x3z2BXl7nCfjmulaPBTGQN/4bdA+gXoX2e1ERsxgZC4OaMySdneQXLcknXbP8RbRxpT3arliqKd9LIMYDtxtt196hcQ8c0lJrhtNJFNITgyvbhuR5eancWXK30VBUQMib7W7DY8NwMnrv3wvMo6eW5XCnoKfPNmkETT6k7k+79iYxL74a1fpreObxLVW2zujc2KSqpBUTRg7gOwAB6bO+SpLde6Wht3IdRumnL8k6gBhReI6qKuvk3shPslOG01P/uowGj54J+KueDeGrfxHWTw1VTPG9kfMAi0+IZ3ByF05M5YlvTVJxK1sjRJRRgE9dXRbDRDWUbZY9JBHUJN+4as/DnD1ZPSU4MzmaOZI4ucST5lUHDF6pbfaJIKnmmV8pcMYwBgAfRctSWdy6y8+0e9UYbkhZuaLSVqrhcIKseAaR1ySqyWnp5MeI59Dhdc3k9sanb6UJj3XeWtELK2WGKSmcfGCDzOmR1GVFltssTQ+Rjmtdu0no73LXlGfGqjQlCLKlOg1OT0dPhXqcVj4cKO6PBVxNDgqFJEiWIWhc0KRy90psOSnERxGnmx7KS2BOshReIzI9kp0almIAbdU05hB3ReIzm4TEjVMLN0hzEpVeWrmFLezdMOZussmlwpwtSCg4hCEAuLqU1iDjWqVbgG19ITsBUMz/zBNiPCWzUx7ZWfeYQ5vvG6vBcMcY7vf3kanNbOf+p/NbqwVv6LitNuia3n1j+bMTvhh6fE7fmqWGxvqOIqmpjjzaa2AymUEYDXAEj35UXh+smruJZbhJra1uoxM8gBho+AXK+5x1npE4wuHPvtZIX5w/lxDVnAH70xaALXZqi91H66UOpqEd9R2kkH+yNh6kpVDY33e4SSSTGOAPdJVTO/1TMknHr5Ji71v6YuAbSgw0FLHy6eL+rjH7T1PvW59SMX7VtMwa8ENAA/j+PetrwNcqKwOrquQmWpMbWxtJIDW58WcBYnT00nYnqVZWqiqqyY09FG9z3jJazqQFdT0uftr+KuKYuJKSGht9PJHqeHSmQjc+Qwd1kKmndDUGJzdOk99lPio30cjhNC5rmnBBOCtZaqGHiC3SwTNBmhGWP7ub+5c+zP03zyZSnpS+MAd132J5k6ZxstVaLPKHPgkZvHsplLYZZqlsYZ1IWb8sanx03Z6TFNRwyRYZC7W4t6nbdPcuJzYYYw0mSV7CzqQw5O4VxcWMp2mCnbk/jPu/kqd9A9nikZnHX8v8iufl7bkZS52/2SoDgMNkBIHqHFp+ihu6YWk4pp5RUUVNoOYqZpdj+k4lx+qrWW2aQZDD8V2zv058UkrEw6LUtC60zd2pv9DSZ6YWvOJ4VnHQ+JP0tNqfnTlXj7M/GSMqXQ2wtByMJfkhMVUMosnphO+xYGVo4qFvdElGwHK5/9GvBl5IcDChyxDJx1V/VRtZn1VY+JmSus11i5VxgJ69UkxYVgWAdE09ivU4rZolEe3CtpmbKBK3cp1OITwmXKRIo7kYJQhCAClRN1KMwauqnQjwqwLaxPRxY3647JLWqRDhpJccAdSq00tgu7qShbQzkmIAhjh+EHsrF1TRxN5jQ0FrTksHXKzMNZTs0M5Eriem+M/DqpBu0cWwgLsbOGd/3rjc9vp1zridUXukr6CahggdT0zG6naRh0z/M+nosdTRSysmMDHPYDl2kZwP4wtvBVUJtstTDEJX6c6NWlzfes/FdZaBskzqCMOd+r1N2GTgkjz2xutZ/kY0qmtaw4xlxPRbrgDh6StgqaiTL2zObE5urBIzqOPlhYWmdJPUuc0NBOXFx2DRn+AvUPs04htlsoPY7lURxGo5uZDuGHYAn5lXfeGeE0FrkuEtyq6WSJtNRykPjmlBII6lTODY57nUTVtCaWGCCQx4aMGTpk+5YCsqpKStrKaCsbLTulJ1xOOiQZ6rU8GWi8VDI57a/RCTqLnNOx/aFx1nkdZrr2a32WKFrpg5omkALsN2Uk2qAHLGBr3feIUazXIto44rgwwVDAGu8ifRWT6uINyXjA6qzw57crddVg4fpG5OjUfVL/AENSAD/RDyTst4pGEDmNz700b1SnJ1DDWl537AZUsw1LpSXOzQT1kspjGScfLb9irpLbFEfuAJuTiuJxJ7kklUFw4uYJCBjb1XC5tvp3nr7Xk1BEWZ0jdQn0UTR0VM3itrxvhddf2SDrup4aa8omzUzOyYiiazIUF9zzuXJs14IzqWpjSeUTaghgOFBdUNwQeqi1VfhpGVS1Nx8RGd11z8dY1uLCskbvlVbiCchMOrctJJ3Ub2rY7rtM8cbU3U0JuR/koPtS57RkrXE6dkOVFm6J7mZGUxMcqcS1ClUdwUmVRnKs0hCEIhxjVJYdKQxqUtQSoyDuTjCcYdDOa/c5wxnYlR485Gyee8B2oDz29cI0mxx8qJ1Q4l88nhZ8fJMPqxUshpqanBLOsvV0h74SH1MgjY0/gbhvy6qw4KgjkvGH4zGw6WHvnr+SzV/xyGhhpaaCqme91FWMcHyD70cgBIGR2yMKn9pc6mkje5xBwQT16nv8VdXWuFNbZ7IxgIbVueXkdBnIAVAwjBTM/U0m0Vv5tI6rbUtjJ2Yz+ljsSlXdrKapjp4G6CyGMyb5zIRqP5EJmkM1U6koA/wc0NaGjuSuXCXm3Wolbu10ztPuBwPyAVK0FxsclutsFe+LLanBY78I23BGF7BwFcqWuslLDQOla+KQCVkrtTg0MPcdRnCynErIpfspoqjUOdCWag479UfYnE98lwq3OdyWhsTR21Hd35YXG+8uk51ruOqx1Jbac6sPfUsaD6AEn6KosV6la6bnOLo55CRnsBgfVwUD7U7oBXUdCw/qIXSv97zgfLSfmq23TGOipnDciMOd/id/2tXPxblaa4zHmkMcCPwnP8eiiPrDDabrVPOzIeW33uOPoAoftWY9nfq/P0/kVV8V1hpeEI26tL6urx8GNx9Uxj2XXpn5rpozg7+SpaquMrydWFBlnc7vk90wXHO5Xq8ZHG6qzjqTt4ipcVSQc6iqNsununW1B7FOJK0Ircjd+6RJWkbBxVLHU467pwzanZTxXyWDqtzm7qFNLnJTck2G9QoUlQSSAVecS1IMvkkF5UdshToOQidBfulNem8HPRdA3VD4fsuPeMdQmicJtxWadclKjuTjimyohKEIQWbIvROGD0T0bE/oGCtNcQGjGSkeIxOdg9dj6pxxb7Od9z2SW1BbTmEYIL+ZjydjGUQ20ufgZ38lMt/NpKxlSyRkLmbAnf8ALuobZi3JAwfMJoyuL9Wdz17oH6x4dUOdqLsknU7uo4IAO67K7Lt/JNuBDsEKT0WnaaodTzMmYcOY4OCmXS7OudW2eSlghDQ1rI4W6QA3oD5+9V7Wp6NgJCHW64g4roblwdQ2ujD/AGslglh5ZAZg9M9Dn0Wz4XnpuFuHaWnne0TSvA0g+KSV5Gw+Jx8F4/b6mChqBUTMD9By1mep7KdS3apul8jrKp/gpo3zNYOjA1pIx/e0rGsfjcvpM4hub7pfbjU6tQlqNEeD+AYDfyAWmD2tc+LoGHl/AEM/8bj8VhLGWm5UevdjJOa8Hyb4j+TStTA6QRNa46nkDJ/taRn/ABSO+Sai5qw5xDfF3G/7fqVWfaE8sgs9CesdMZXj+04qXERNK1m55jsNHoTt9Qqjj2cT8TVTQciDTCP7owpmezV9MqWpt7VIITbxsuzmjlc1YXX7JslZqHRJgpZm7BRS5c1FOh90pxjKazukZKAcJ0PtT8ajMKkRkYCsC1zCUg4RTTikJTzuU2SlRxybKWSkFZCShBQg0cbV2R2Gux5JD36eiBJqY/bqFW0B0L2xsk/rNw0eSZ3Iy3cq2p2AsoC7cElp+SrZ43B0zoWufEx+C9oyArGTT9gD80qCJ8mt7B4WDLs9kFjzG3II1nwkjYqVRteJTROw0c0Fx9Ag57DOJGhzMOmIDAO4UethkhqZGSgtc12C0jBCtLpVs/STdLsMhG2PNM3CqiulypeVFym6I4nZxqcQAHOJHUnqocVrSOhUqjpqiqeWUkbpHAZw0ZVlcrfSRx00kUrTUOlcHRAEnQBkH4nZcdHxBwnVRSy081DLPFrjdJH4ZGny7H3dk6cUj2PZI5sjHNc3qHDorO1wvNsvFQxhPLhZFkfhD37n/CrakvTLxM993tFBWuyOZLh0UjR6Ob/kipdw7yJaaKW8WqKok8UZYyojeW5A3Ba7ueuVOrxW2WiqJ3vkZBM6LliPmNjcWgyODMZA6+I7K7irGS4ljcAXjmYz01F7/wD0VnwrxNFwnPPQiL9KURLn8+nk0EHYEYdttjz7rVUfEXA3ELS6rDac/wBGrpdOOnRzSR0A+SzbWmZsI1Xil1kARO1nPcN/+Via6rNXXVVQ85dJK52fjsvRuKH2Gx259x4fqKase9piDYqtsjWh2xdgHIK8p5gAwOgGyuYaOucmZZAO6Q6RMPcSt1h1z8pGSVzquhZQIQhAIKEIOtOEoSkFIXCEElsuy7rUdpIXS4q9C3vyk6kjdG6gUSk7oQgEIQg0Dhq6JcUfYhNtcpEbts4Wm0OaYRUclM52mSJ2ph8xlLeP/wAqmpYj/paqQOdv59U/cKMVcTZI/wBa3qPMKoiingqGyMidzGnYEbLKLi9MjFPBTw5OhwbG3zHTH0TEloqqfnySVEEcsBwY+YC4+enzwo0rCNVRVzZmI8LeuD2T1puEAvkNZc2CSESB0rGjAcPcELYhacNdnLnH8XmpVjbG65tdLkRRtc9x8gApHF11oLjfKirtVN7NTPxpj/aqmKpdEH6R98AHHlnJV+4n6uGzPbemXWOn107JQWcxhLfDtkgYJGRnG2VYcZ8X1fFk9JHVu8NKw68u8D37+JoG42xsc9SmbFeJqikbaBShxlaY4nNOXOcT1/P8k7xNwBeeHaBtxq2skpz990ZyWZ81nrVO8L8N3K7RiS2U7n04e1s0gIA9fepV1tLoq+rp9GsQTgZx0OM/tXpH2XV9HbeCaVtSWxvkzId8beZ+CpqF4uUN0uMMbDUVtW6SFr+gbkNB+W6xrfGpHn0FJoc7EbWu1ZGW/dd5jyUG7a4Jg52rxjJdnqe/YL1mGxwTQF5a3WXu2Hl0H0XnHHnLaxgiaWllS+Ik48RaN8emcJn5O3i6zyMs+UF+rBymS/5rhKSurl0ElcOShCiAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhBZOqxGcadS7+kiBgR/mq4uJdkruVV6tReH6ccsfNR6i4SStIA058ioWVwodOiTP3iSnaemMzyW9uu4CihXlDHBFSt5zRk7lzkFdWU5gc3LMA985XG00kjIQxvikIDR7zgKRcJKWQsjpm+InxOJU6jl01sRbgctu3vA/eizja8DcISW3imnbVPaQ+jMsMhHhDtQ1t94G/xVjxxc62h4erKC8V0VXNO5zGGNmkaHHYD3DKqqTiipZFy3HU0A49D6LI1lbJUyF1XK+V421Pdkrnmat9tXhP6aqHRCASlrS3Scdm+StKPiU0zI2U7tIY3A9Fn6h8Zb4VALy3ot+MZmrHo1LxZowGPIaBgArH8W3cXe582MARxtwMd3Hqfp8lUGd5GNWAmzgdBhSZk+l1u1wlJXSuKsBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBAQhApCEIAEtOodQliR8rncxxOBsEIQLg++pcb3CcEH+MIQqJsUr9J3UOqJ5nvG6EI1UWQ7KM4klCErLiEIUAhCEAhCEAhCEAhCEAhCEAhCEAhCEAhCEAhCEAhCEH//2Q==
 
 Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
@@ -16,16 +16,8 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ### The Data
 
-In the folder `zippedData` are movie datasets from:
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
+Used the  following 3 datasets
 * imdb.title.basics
 * imdb.title.ratings
 * bom.movie_gross
@@ -38,28 +30,13 @@ There are three deliverables for this project:
 * A **Jupyter Notebook**
 * A **non-technical presentation**
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
 
 ### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+* **Data Cleaning.** 
+* **EDA.** 
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
+* **Conclusion.** 
 ## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+This project determined the best movie genres for Microsoftto invest in
