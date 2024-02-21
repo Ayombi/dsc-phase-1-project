@@ -1,8 +1,9 @@
 # Phase 1 Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Box Office Movie project
 
-![image](https://github.com/Ayombi/dsc-phase-1-project/assets/151352835/c337cbd2-3317-41d3-8751-7509f4226016)
+![image](https://github.com/Ayombi/dsc-phase-1-project/assets/151352835/d936019d-c9ed-4119-8697-adc60fc6c25b)
+
 
 Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
